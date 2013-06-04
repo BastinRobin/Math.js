@@ -1,6 +1,4 @@
 //Math Arithmetic programming using javascript
-
-//Arithmetic Operation
 //Function for addition
 function add(a, b){
   var a = this.a;
