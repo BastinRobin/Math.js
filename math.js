@@ -29,3 +29,5 @@ function rem(a, b){
 	var b = this.b;
 	return a % b;
 }
+
+//Extending features and modularity of the library soon...SO kindly wait for
