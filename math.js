@@ -30,4 +30,4 @@ function rem(a, b){
 	return a % b;
 }
 
-//Extending features and modularity of the library soon...SO kindly wait for
+//Extending features and modularity of the library soon..
