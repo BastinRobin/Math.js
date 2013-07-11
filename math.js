@@ -30,4 +30,7 @@ function rem(a, b){
 	return a % b;
 }
 
+//Function calling samples
+add(10, 20)
+
 //Extending features and modularity of the library soon..
